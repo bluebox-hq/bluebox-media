@@ -22,12 +22,14 @@ The site root (`https://bluebox-hq.github.io/bluebox-media/`) returns 404 becaus
 | Lockup, white | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-lockup-white.png |
 | Signature logo | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-signature-logo.png |
 | Overview preview GIF | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-overview-preview.gif |
+| Routines preview GIF | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-routines-preview.gif |
 
 ### Video
 
 | Asset | Link |
 |---|---|
 | Overview video | https://bluebox-hq.github.io/bluebox-media/video/2026/bluebox-overview-video.mp4 |
+| Routines demo video | https://bluebox-hq.github.io/bluebox-media/video/2026/bluebox-routines-demo.mp4 |
 
 ## Folder layout
 
