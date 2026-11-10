@@ -31,11 +31,18 @@ The site root (`https://bluebox-hq.github.io/bluebox-media/`) returns 404 becaus
 | Overview video | https://bluebox-hq.github.io/bluebox-media/video/2026/bluebox-overview-video.mp4 |
 | Routines demo video | https://bluebox-hq.github.io/bluebox-media/video/2026/bluebox-routines-demo.mp4 |
 
+### Slides
+
+| Asset | Link |
+|---|---|
+| GitHub Universe 2026: Your agents write the fix (PDF) | https://bluebox-hq.github.io/bluebox-media/slides/2026/github-universe-2026-your-agents-write-the-fix.pdf |
+
 ## Folder layout
 
 ```
 images/<year>/   images and GIFs
 video/<year>/    video files
+slides/<year>/   slide decks as PDF
 ```
 
 ## Add an asset
