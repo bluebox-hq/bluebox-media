@@ -23,6 +23,7 @@ The site root (`https://bluebox-hq.github.io/bluebox-media/`) returns 404 becaus
 | Signature logo | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-signature-logo.png |
 | Overview preview GIF | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-overview-preview.gif |
 | Routines preview GIF | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-routines-preview.gif |
+| AI Coding Summit NYC 2026: Roll for Initiative GIF | https://bluebox-hq.github.io/bluebox-media/images/2026/ai-coding-summit-nyc-2026-roll-for-initiative.gif |
 
 ### Video
 
