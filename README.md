@@ -24,6 +24,8 @@ The site root (`https://bluebox-hq.github.io/bluebox-media/`) returns 404 becaus
 | Overview preview GIF | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-overview-preview.gif |
 | Routines preview GIF | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-routines-preview.gif |
 | AI Coding Summit NYC 2026: Roll for Initiative GIF | https://bluebox-hq.github.io/bluebox-media/images/2026/ai-coding-summit-nyc-2026-roll-for-initiative.gif |
+| Screenshot: workspace menu | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-workspace-menu.jpg |
+| Screenshot: create workspace dialog | https://bluebox-hq.github.io/bluebox-media/images/2026/bluebox-create-workspace-dialog.jpg |
 
 ### Video
 
